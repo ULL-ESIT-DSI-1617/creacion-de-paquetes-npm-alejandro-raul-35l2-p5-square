@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha --require should",
-    "doc": "documentation build ./lib/triangle.js -f html -o docs"
+    "doc": "documentation build ./lib/square.js -f html -o docs"
   },
   "repository": {
     "type": "git",
